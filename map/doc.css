@@ -1,0 +1,9 @@
+@media (min-width: 576px) {
+    header {
+        background-image: url(../Afbeeldingen/2.png);
+        height: 389px; 
+        border-radius: 5px;    
+             
+    }
+ 
+}
